@@ -4,7 +4,7 @@ This project implements a Graph-based Retrieval Augmented Generation (RAG) syste
 
 ## Project Overview 🎯
 
-Thiss project combines traditional vector-based retrieval with graph-based knowledge extraction to provide more accurate and contextual answers to queries about Apple's financial and business information. It uses a hybrid approach that leverages both structured (graph) and unstructured (vector) data for comprehensive information retrieval.
+This project combines traditional vector-based retrieval with graph-based knowledge extraction to provide more accurate and contextual answers to queries about Apple's financial and business information. It uses a hybrid approach that leverages both structured (graph) and unstructured (vector) data for comprehensive information retrieval.
 
 ## Features ✨
 
