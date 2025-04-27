@@ -1,10 +1,10 @@
 # Graph RAG with Neo4j and LangChain 🚀
 
-This project implements a Graph-based Retrieval Augmented Generation (RAG) system using Neo4j, LangChain, and various LLM technologies to analyze and query Apple Inc.'s 2024 annual report data. 📊
+This project implements a Graph-based Retrieval Augmented Generation (RAG) system using Neo4j, LangChain, and various LLM techniques to analyze and query Apple Inc.'s 2024 annual report data. 📊
 
 ## Project Overview 🎯
 
-Tis project combines traditional vector-based retrieval with graph-based knowledge extraction to provide more accurate and contextual answers to queries about Apple's financial and business information. It uses a hybrid approach that leverages both structured (graph) and unstructured (vector) data for comprehensive information retrieval.
+Thiss project combines traditional vector-based retrieval with graph-based knowledge extraction to provide more accurate and contextual answers to queries about Apple's financial and business information. It uses a hybrid approach that leverages both structured (graph) and unstructured (vector) data for comprehensive information retrieval.
 
 ## Features ✨
 
